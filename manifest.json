@@ -4,7 +4,7 @@
   "description": "Fotoğraf yükle, saç stillerini dene — hızlı ve kolay. Saç kesimlerini sanal olarak deneyin.",
   "start_url": "/index.html",
   "scope": "/",
-  "display": "standalone",
+  "display": "fullscreen",
   "display_override": ["standalone", "window-controls-overlay"],
   "orientation": "portrait",
   "background_color": "#ffffff",
@@ -22,3 +22,4 @@
   "related_applications": [],
   "prefer_related_applications": false
 }
+
