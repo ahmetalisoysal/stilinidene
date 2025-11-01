@@ -1,0 +1,24 @@
+{
+  "name": "Stilini Dene",
+  "short_name": "StilDene",
+  "description": "Fotoğraf yükle, saç stillerini dene — hızlı ve kolay. Saç kesimlerini sanal olarak deneyin.",
+  "start_url": "/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "window-controls-overlay"],
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#007BFF",
+  "lang": "tr-TR",
+  "icons": [
+  
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
